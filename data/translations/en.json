@@ -1,0 +1,13 @@
+{
+  "login": {
+    "pageTitle": "Login",
+    "placeholder": {
+      "username": "Username",
+      "password": "Password"
+    },
+    "button": {
+      "submit": "Login",
+      "clear": "Clear"
+    }
+  }
+}

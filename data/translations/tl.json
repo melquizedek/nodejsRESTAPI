@@ -1,0 +1,13 @@
+{
+  "login": {
+    "pageTitle": "Papasukan",
+    "placeholder": {
+      "username": "Username mo",
+      "password": "Password mo"
+    },
+    "button": {
+      "login": "Pasok",
+      "clear": "Burahin"
+    }
+  }
+}

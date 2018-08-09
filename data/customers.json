@@ -1,0 +1,6 @@
+{
+    "customers": [
+        { "id": 1, "name": "John Doe", "email": "johndoe@email.com", "password": "pass1"},
+		{ "id": 2, "name": "Pedro Penduko", "email": "pedroPenduko@email.com", "password": "pass2" }
+    ]
+}

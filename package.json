@@ -1,0 +1,17 @@
+{
+  "name": "dataserver",
+  "version": "1.0.0",
+  "description": "data server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zedpaala",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "*",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "lodash": "^4.17.10"
+  }
+}

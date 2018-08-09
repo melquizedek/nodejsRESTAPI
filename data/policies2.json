@@ -1,0 +1,36 @@
+{
+    "policies": [
+        { 
+            "id": 101010,
+            "customer_id": 1,
+            "product_id": 1,
+            "type": "from policy 2 - Variable Life", 
+            "face_amount": 1000000,
+            "insured_name": "Beyonce Knowles" 
+        },
+        {
+            "id": 101011,
+            "customer_id": 1,
+            "product_id": 2,
+            "type": "from policy 2 - Term Life",
+            "face_amount": 30000000,
+            "insured_name": "Shawn Corey Carter"
+        },
+		{
+            "id": 101011,
+            "customer_id": 1,
+            "product_id": 2,
+            "type": "from policy 2 - Term Life 2",
+            "face_amount": 30000000,
+            "insured_name": "Shawn Corey Carter"
+        },
+		{
+            "id": 101011,
+            "customer_id": 1,
+            "product_id": 2,
+            "type": "from policy 2 - Term Life 3",
+            "face_amount": 30000000,
+            "insured_name": "Shawn Corey Carter"
+        }
+    ]
+}

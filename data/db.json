@@ -1,0 +1,60 @@
+{
+    "customer": [
+        { "id": 1, "name": "Beyonce Knowles", "email": "beyonce@email.com" }
+    ],
+    "product": [
+        { "id": 1, "name": "Life Insurance" },
+        { "id": 2, "name": "Life Insurance" }
+    ],
+    "policies": [
+        { 
+            "id": 101010,
+            "customer_id": 1,
+            "product_id": 1,
+            "type": "Variable Life", 
+            "face_amount": 1000000,
+            "insured_name": "Beyonce Knowles" 
+        },
+        {
+            "id": 101011,
+            "customer_id": 1,
+            "product_id": 2,
+            "type": "Term Life",
+            "face_amount": 30000000,
+            "insured_name": "Shawn Corey Carter"
+        },
+		{
+            "id": 101011,
+            "customer_id": 1,
+            "product_id": 2,
+            "type": "Term Life 2",
+            "face_amount": 30000000,
+            "insured_name": "Shawn Corey Carter"
+        },
+		{
+            "id": 101011,
+            "customer_id": 1,
+            "product_id": 2,
+            "type": "Term Life 3",
+            "face_amount": 30000000,
+            "insured_name": "Shawn Corey Carter"
+        }
+    ],
+    "beneficiary": [
+        {
+            "id": 1,
+            "customer_id": 1,
+            "type": "primary",
+            "name": "Shawn Corey Carter",
+            "relationship": "husband"
+        },
+        {
+            "id": 2,
+            "customer_id": 1,
+            "type": "contingent",
+            "name": "Ivy Carter",
+            "relationship": "daughter"
+        }
+    ]
+
+}
